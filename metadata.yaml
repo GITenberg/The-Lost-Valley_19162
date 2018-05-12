@@ -1,0 +1,44 @@
+_repo: The-Lost-Valley_19162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, J. M. (James Morgan)
+    aliases:
+    - Walsh, James Morgan
+    - Hill, H. Haverstock
+    birthdate: 1897
+    deathdate: 1952
+    gutenberg_agent_id: '8514'
+    url: http://www.gutenberg.org/2009/agents/8514
+    wikipedia: http://www.adb.online.anu.edu.au/biogs/A120416b.htm
+description: I came upon the place quite unexpectedly. Centuries of wind and wave
+  had carved a little nook out of the foot of the cliff and fashioned it so cunningly
+  that I did not see it until I was right on top of it. After the warmth of the open
+  beach and the glare of the white road I had recently travelled, its shade looked
+  so inviting that I limped in under the overhang of the cliff and dropped joyfully
+  on to the cool patch of sand. It was the first moment of contentment I had known
+  for many weary months, and, needless to say, I set myself out to make the most of
+  it. I was absolutely sick of tramping about. My left boot had burst and, by the
+  feel of it, there wasn't too much left of my right sole. I had been crawling along
+  the road since daylight - and for many days before, for that matter - searching
+  for a job that failed to materialise. Jobs, it appeared, were just about as scarce
+  as cool spots in Hades. They had been very kind to me at the last farmhouse. The
+  good lady had given me an excellent breakfast and an extra glass of milk, had loaded
+  my bedraggled pockets with food and had finally put me on the road to the sea. Work,
+  she said, they could not give me. They had put off two men the previous day.
+gutenberg_issued: '2006-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria -- Fiction'
+- !lcc 'PR'
+title: The Lost Valley
+url: http://www.gutenberg.org/ebooks/19162
